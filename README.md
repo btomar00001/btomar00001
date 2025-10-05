@@ -1,5 +1,5 @@
-# Hi 👋, I'm Adam Pithenwala  
-### Student at MITS, Gwalior 🌟
+# Hi 👋, I'm Bhuvaneshwar Pratap
+### Student at Galgotias University, GrNoida 🌟
 
 ![Profile views](https://komarev.com/ghpvc/?username=btomar0001-pw&label=Profile%20views&color=0e75b6&style=flat)
 
