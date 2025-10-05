@@ -6,7 +6,7 @@
 ---
 
 ### 🌱 About Me  
-- 🔭 Currently learning **Competetive Coding**  
+- 🔭 Currently learning **Competitive Coding**  
 - 📫 Reach me at **[bhuvaneshwarpratap@outlook.com](mailto:bhuvaneshwarpratap@outlook.com)**  
 
 ---
